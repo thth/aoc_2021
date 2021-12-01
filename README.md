@@ -6,4 +6,4 @@ elixir solutions for advent of code 2021
 * [2020](https://github.com/thth/aoc_2020) (elixir)
 * __2021__ (elixir)
 
-![chiisakobee onion](https://user-images.githubusercontent.com/7574985/144159618-a87ba278-5b19-4755-842d-27685003e162.png)
+![chiisakobee onions](https://user-images.githubusercontent.com/7574985/144160289-a2cca507-5120-4db9-a037-5c1b73678706.png)
