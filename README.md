@@ -9,5 +9,6 @@ elixir solutions for advent of code 2021
 * __2021__
 * [2022](https://github.com/thth/aoc_2022)
 * [2023](https://github.com/thth/aoc_2023)
+* [2024](https://github.com/thth/aoc_2024)
 
 ![chiisakobee onions](https://user-images.githubusercontent.com/7574985/144160289-a2cca507-5120-4db9-a037-5c1b73678706.png)
